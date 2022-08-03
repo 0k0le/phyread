@@ -20,7 +20,7 @@
 #define PAGE_SIZE 	4096
 #define PAGE_MASK 	(PAGE_SIZE-1)
 
-#define unsigned int uint
+typedef unsigned int uint;
 
 #define FATAL(x, ...) { \
 	fprintf(stderr, x "\n", ##__VA_ARGS__); \

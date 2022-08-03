@@ -1,7 +1,7 @@
 /*
  * Matthew Todd Geiger
  *
- * phymem.c
+ * phyread.c
  *
  * This program was intended to help with inspecting the physical memory of
  * TI's AM335 processors
